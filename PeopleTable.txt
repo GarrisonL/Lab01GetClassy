@@ -1,0 +1,5 @@
+00001,Billy,Smith,Manager,1988
+00002,Cara,Smith,Supervisor,1990
+00003,Garrison,Caleb,Boss,1999
+Paris,Lee,Smith,Employee,1995
+00004,Caleb,Lee,Employee,2000
